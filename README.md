@@ -35,7 +35,7 @@ This repository contains the implementation and documentation for our project on
    git clone https://github.com/Theoddalex/Anomaly-Detection-in-Texts-Using-Graph-Based-Methods.git
 2. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook
+   jupyter Graph_Based_Anomaly_Detection.ipynb
 
 ### Contributing
 Contributions are welcome. If you would like to propose improvements or report issues, please open an issue or submit a pull request.
