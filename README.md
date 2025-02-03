@@ -34,4 +34,7 @@ This repository contains the implementation and documentation for our project on
    ```bash
    jupyter notebook
 
+### Contributing
+Contributions are welcome. If you would like to propose improvements or report issues, please open an issue or submit a pull request.
+
 
