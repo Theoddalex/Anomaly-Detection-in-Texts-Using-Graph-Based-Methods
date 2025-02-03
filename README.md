@@ -33,6 +33,5 @@ This repository contains the implementation and documentation for our project on
    cd yourproject
 ```
 2. Open the Jupyter Notebook::  
-   ```bash
    jupyter notebook
 ```
