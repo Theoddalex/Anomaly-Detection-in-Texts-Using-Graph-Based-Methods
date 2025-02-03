@@ -1,37 +1,38 @@
-# 🚀 Anomaly Detection Using Graph Fourier Transform  
+# Anomaly Detection in Texts Using Graph Methods
 
-Welcome to the repository for our **Graph-Based Anomaly Detection** project! This project explores **Graph Fourier Transform (GFT) on k-NN graphs** to detect textual anomalies in multilingual datasets.
+This repository contains the implementation and documentation for our project on anomaly detection using **Graph Fourier Transform (GFT) on k-NN graphs**. The project explores the use of **BERT embeddings** and **spectral graph analysis** to identify textual anomalies in multilingual datasets.
 
----
+## Repository Structure  
 
-## 📂 Repository Structure  
+- **Project Book - Part A**  
+  - A detailed report covering the theoretical foundation and methodology of the project.
 
-- 📖 **Project Book - Part A**  
-  - A detailed document covering the **theoretical foundation** and **methodology** behind our approach.
+- **Jupyter Notebook (`.ipynb`)**  
+  - An interactive implementation of the anomaly detection pipeline, which includes:  
+    - Loading and preprocessing textual data from **Project Gutenberg**  
+    - Constructing a **k-NN graph** using **BERT embeddings**  
+    - Applying **Graph Fourier Transform (GFT)** for anomaly detection  
+    - Evaluating different **k values** to optimize performance  
 
-- 📝 **Project Notebook (`.ipynb`)**  
-  - 💡 An interactive **Jupyter Notebook** implementing the anomaly detection pipeline.
-  - 📚 Loads and preprocesses textual data from **Project Gutenberg**  
-  - 🤖 Constructs a **k-NN graph** using **BERT embeddings**  
-  - 📊 Applies **Graph Fourier Transform (GFT)** for anomaly detection  
-  - ⚡ Evaluates different **k values** to optimize performance  
+- **Project Book - Part B**  
+  - A continuation of the project documentation, including analysis, results, and conclusions.
 
-- 📖 **Project Book - Part B**  
-  - A continuation of the **project documentation**, including **analysis, results, and conclusions**.
+- **Pipeline Process Video**  
+  - A recorded demonstration of the anomaly detection pipeline, illustrating the key steps and findings.
 
-- 🎥 **Pipeline Process Video**  
-  - 🎬 A short video showcasing the **end-to-end pipeline**, explaining how the system detects anomalies.  
+- **Project Poster**  
+  - A visual summary of the project, highlighting key findings, improvements, and future directions.
 
-- 📌 **Project Poster**  
-  - 📊 A **visually engaging summary** of our work, featuring **key findings, improvements, and future directions**.  
-
----
-
-## 🔥 Getting Started  
+## Getting Started  
 
 ### Installation  
 
-1️⃣ Clone this repository:  
-```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/yourproject.git
+   cd yourproject
+```
+2. Open the Jupyter Notebook::  
+   ```bash
+   jupyter notebook
+```
