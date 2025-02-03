@@ -32,6 +32,6 @@ This repository contains the implementation and documentation for our project on
    git clone https://github.com/yourusername/yourproject.git
 ```
 2. Open the Jupyter Notebook:
-  ```bash  
-   jupyter notebook
+   ```bash
+   git clone https://github.com/yourusername/yourproject.git
 ```
