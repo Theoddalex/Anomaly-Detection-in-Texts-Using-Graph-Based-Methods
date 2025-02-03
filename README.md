@@ -29,7 +29,7 @@ This repository contains the implementation and documentation for our project on
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/Theoddalex/Anomaly-Detection-in-Texts-Using-Graph-Based-Methods.git
 2. Open the Jupyter Notebook:
    ```bash
    jupyter notebook
