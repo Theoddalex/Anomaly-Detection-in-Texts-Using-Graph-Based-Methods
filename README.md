@@ -22,7 +22,7 @@ This repository contains the implementation and documentation for our project on
 
 - **Project Poster**  
   - A visual summary of the project, highlighting key findings, improvements, and future directions.
-  - 
+  
 ## 📽️ Pipeline Process Video  
 🎥 Watch the pipeline demonstration: [Click Here](https://drive.google.com/file/d/1MrRY4QdtMdTDdW9__14jHI3u8UWMqoD0/view?usp=sharing)
 
