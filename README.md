@@ -26,6 +26,9 @@ This repository contains the implementation and documentation for our project on
 ## 📽️ Pipeline Process Video  
 🎥 Watch the pipeline demonstration: [Click Here](https://drive.google.com/file/d/1MrRY4QdtMdTDdW9__14jHI3u8UWMqoD0/view?usp=sharing)
 
+##  Colab link  
+run the pipeline using google collab, Create a copy of the notebook to be able to upload files run the pipeline: [Click Here](https://colab.research.google.com/drive/1CypZbOudgdoR9gvJagvyBUOscCeXNsJX?usp=sharing)
+
 ## Getting Started  
 
 ### Installation  
