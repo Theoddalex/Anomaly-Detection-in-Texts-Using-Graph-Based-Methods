@@ -4,7 +4,7 @@ This repository contains the implementation and documentation for our project on
 
 ## Repository Structure  
 
-- **Project Book - Part A**  
+- **Anomaly Detection in Texts Using Graph Methods - Part A**  
   - A detailed report covering the theoretical foundation and methodology of the project.
 
 - **Jupyter Notebook (`.ipynb`)**  
@@ -14,7 +14,7 @@ This repository contains the implementation and documentation for our project on
     - Applying **Graph Fourier Transform (GFT)** for anomaly detection  
     - Evaluating different **k values** to optimize performance  
 
-- **Project Book - Part B**  
+- **Anomaly Detection in Texts Using Graph Methods - Part B**  
   - A continuation of the project documentation, including analysis, results, and conclusions.
 
 - **Pipeline Process Video**  
